@@ -1,6 +1,6 @@
 const config = {
     
-    url: "http://localhost:5261/productapi"
+    url: "http://localhost:2030/2300031940-backend/productapi"
     
 };
 
